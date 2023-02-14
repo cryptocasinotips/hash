@@ -1,6 +1,6 @@
 var config = {
     mainTitle: {
-        label: '*Crypto Casino Tips Script for HashDice*',
+        label: '*https://t.me/cryptocasinowin Script for HashDice*',
         type: 'title'
     },
     auto: {
